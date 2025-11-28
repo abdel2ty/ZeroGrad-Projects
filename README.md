@@ -1,6 +1,6 @@
 # ZeroGrad All Projects
 
-![Roadmap](./logo.png)
+![Roadmap](./ml.jpg)
 
 ### 01. Covid-19 Analysis (EDA Project)
 - Inside Repo: https://github.com/abdel2ty/ZeroGrad-Projects/EDA_Pr
